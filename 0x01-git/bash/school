@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "school"
+-e#!/bin/bash\necho "the school is open!"
